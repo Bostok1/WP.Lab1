@@ -1,0 +1,14 @@
+body {
+    background-color:#587BE5; border: 10px inset #0a0158;
+}
+
+table{ background-color:#B9A3F2;}
+table:hover{background-color:#12033a;}
+tr { color:#fff019;}
+li {color: #290588}
+
+#HHH{color: #0a2986;
+text-align: center;
+text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
+}
+#HHH:hover{font-size: 50px;}
